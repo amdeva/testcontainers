@@ -1,0 +1,14 @@
+{
+   "type": "record",
+   "name": "BookAvro",
+   "fields": [
+      {
+         "name": "id",
+         "type": "int"
+      },
+      {
+         "name": "name",
+         "type": "string"
+      }
+   ]
+}
